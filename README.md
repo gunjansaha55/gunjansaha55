@@ -33,26 +33,8 @@
 
 
 
-<h1 align="left"> 🗣 Socials : </h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gunjansaha55/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
-      </a>
 
-  <a href="https://twitter.com/gunjansaha55">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/gunjansaha55/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
-  </a>
-  
-
-  
-
-  
-  </div>
 
 
 
@@ -79,7 +61,9 @@
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjansaha55&theme=highcontrast)
-<img src="https://streak-stats.demolab.com?user=gunjansaha55&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
+
+
+
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjansaha55&theme=highcontrast)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjansaha55&theme=highcontrast)
