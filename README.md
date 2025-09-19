@@ -5,28 +5,21 @@
 
 
 # 💫 About Me:
- 🌱Gunjan Saha, a B.Tech student in Computer Science and Business Systems at the Academy of Technology, is a dedicated and goal-oriented individual with hands-on experience in startup environments. Currently serving as a Partnerships and Community Manager at ProjectX, Gunjan brings a strong work ethic, adaptability, and a solutions-driven mindset to every task. Passionate about leveraging technology to drive innovation, he excels in collaboration and problem-solving. Beyond academics and work, his active participation in team sports like football and basketball highlights his teamwork and leadership abilities.<br><br>📫 How to reach me **gunjansaha976@gmail.com**<br><br> ⚡ Fun fact - **I excel at effectively managing multiple responsibilities and ensuring smooth coordination across tasks and projects.** 
+ 🌱I thrive at the intersection of technology, entrepreneurship, and community building. Currently, I manage Partnerships, Community, and Growth at ProjectX, where I collaborate with teams, partners, and creators to drive impactful initiatives.
+
+Beyond that, I founded G. NOVA ARENA, a hybrid gaming and esports community that unites digital gamers and field athletes under one platform. From hosting online tournaments to organizing offline football, basketball, and cricket events, I’ve created a space where competition sparks skill development, teamwork, and meaningful connections.
+
+What motivates me is building ecosystems—whether for startups, communities, or events—that enable people to grow and engage meaningfully. With hands-on experience across startup environments, event management, and partnership development, I bring adaptability, leadership, and execution to every project.
+
+If you’re building something around tech, sports, gaming, or community-led growth, let’s connect.<br><br>
+
+
+📫 How to reach me **gunjansaha976@gmail.com**<br><br> 
 
 
 
 
 
-# 👨‍💻 Tech Stack :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
-  </a>
-</p>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="60" alt="windows8 logo"/>
- <a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
-</div>
 
 
 
