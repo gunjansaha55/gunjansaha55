@@ -51,18 +51,4 @@ If you’re building something around tech, sports, gaming, or community-led gro
   />
 </picture>
 
-<div align="center">
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjansaha55&theme=highcontrast)
-
-
-
-
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjansaha55&theme=highcontrast)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjansaha55&theme=highcontrast)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunjansaha55&theme=highcontrast)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunjansaha55&theme=highcontrast&utcOffset=8)
-
-![](https://github-profile-trophy.vercel.app/?username=gunjansaha55&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
